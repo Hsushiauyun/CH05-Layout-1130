@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">5-0單位換算</string>
+    <string name="zero">0</string>
+    <string name="name">02筱昀</string>
+
+
+    <string name="enter">執行換算</string>
+    <string name="ib">磅(Ib):</string>
+
+    <string name="hint">請輸入數字</string>-->
+<!--    <string name="hint">請輸入數字</string>-->
+<!--    <string name="zero">0</string>-->
+</resources>

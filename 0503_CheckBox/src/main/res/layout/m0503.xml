@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gray"
+    android:orientation="vertical"
+    android:padding="@dimen/pa01"
+    tools:context=".M0503">
+
+    <CheckBox
+        android:id="@+id/m0503_chb02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Silver"
+        android:buttonTint="@color/Purple"
+        android:text="@string/m0503_chb02"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <CheckBox
+        android:id="@+id/m0503_chb03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Silver"
+        android:buttonTint="@color/Purple"
+        android:text="@string/m0503_chb03"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <CheckBox
+        android:id="@+id/m0503_chb01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Silver"
+        android:buttonTint="@color/Purple"
+        android:checked="true"
+        android:text="@string/m0503_chb01"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <CheckBox
+        android:id="@+id/m0503_chb04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Silver"
+        android:buttonTint="@color/Purple"
+        android:text="@string/m0503_chb04"
+        android:textSize="@dimen/fontsize"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/m0503_b001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p20"
+        android:height="70dp"
+        android:background="@color/ic_launcher_0503_background"
+        android:text="@string/m0503_b001"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0503_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p20"
+        android:height="50dp"
+        android:background="@color/purple_200"
+        android:text="@string/m0503_t001"
+        android:textSize="@dimen/fontsize" />
+
+    <TextView
+        android:id="@+id/m0503_t002"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/p200"
+        android:gravity="end"
+        android:text="@string/name"
+        android:textColor="@color/Navy"
+        android:textSize="@dimen/fontsize" />
+
+</LinearLayout>

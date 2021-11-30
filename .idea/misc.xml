@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/CH05-Layout/0500_test/src/main/res/layout/m0500.xml" value="0.22" />
+        <entry key="..\:/android-work/CH05-Layout/0500_test_02/src/main/res/layout/m0500.xml" value="0.33" />
+        <entry key="..\:/android-work/CH05-Layout/0500_test_02/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.31666666666666665" />
+        <entry key="..\:/android-work/CH05-Layout/0500_test_02/src/main/res/mipmap-anydpi-v26/ic_launcher_1.xml" value="0.31666666666666665" />
+        <entry key="..\:/android-work/CH05-Layout/0500_test_02/src/main/res/mipmap-anydpi-v26/ic_launcher_1_round.xml" value="0.31666666666666665" />
+        <entry key="..\:/android-work/CH05-Layout/0500d_Converter/src/main/res/layout/m500.xml" value="0.1703125" />
+        <entry key="..\:/android-work/CH05-Layout/0500f_MoneyChange/src/main/res/layout/m0500.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH05-Layout/0501_Marrisug/src/main/res/layout/m0501.xml" value="0.33" />
+        <entry key="..\:/android-work/CH05-Layout/0501_Marrisug/src/main/res/layout/spinner_item.xml" value="0.13645833333333332" />
+        <entry key="..\:/android-work/CH05-Layout/0501_Marrisug/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0501_Marrisug/src/main/res/mipmap-anydpi-v26/ic_launcher_1.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0501_Marrisug/src/main/res/mipmap-anydpi-v26/ic_launcher_1_round.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0502_Marrisug_radiobutton/src/main/res/layout/m0501.xml" value="0.33" />
+        <entry key="..\:/android-work/CH05-Layout/0502_Marrisug_radiobutton/src/main/res/layout/m0502.xml" value="0.24537037037037038" />
+        <entry key="..\:/android-work/CH05-Layout/0502_Marrisug_radiobutton/src/main/res/layout/spinner_item.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0502_Marrisug_radiobutton/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3515625" />
+        <entry key="..\:/android-work/CH05-Layout/0502_Marrisug_radiobutton/src/main/res/mipmap-anydpi-v26/ic_launcher_01.xml" value="0.3515625" />
+        <entry key="..\:/android-work/CH05-Layout/0502_Marrisug_radiobutton/src/main/res/mipmap-anydpi-v26/ic_launcher_0502.xml" value="0.3515625" />
+        <entry key="..\:/android-work/CH05-Layout/0502_Marrisug_radiobutton/src/main/res/mipmap-anydpi-v26/ic_launcher_0502_round.xml" value="0.3515625" />
+        <entry key="..\:/android-work/CH05-Layout/0502a_ Marrisug_radiobutton/src/main/res/layout/m0502.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0502a_Marrisug_zh/src/main/res/layout/m0502.xml" value="0.33" />
+        <entry key="..\:/android-work/CH05-Layout/0503_CheckBox/src/main/res/layout/m0503.xml" value="0.33" />
+        <entry key="..\:/android-work/CH05-Layout/0504_ScrollView/src/main/res/layout/m0503.xml" value="0.3338541666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0504_ScrollView/src/main/res/layout/m0504.xml" value="0.32916666666666666" />
+        <entry key="..\:/android-work/CH05-Layout/0504_ScrollView_1/src/main/res/layout/m0504.xml" value="0.32916666666666666" />
+        <entry key="..\:/android-work/CH05-Layout/0505_Auto_Complete_TextInput/src/main/res/layout/m0505.xml" value="0.1" />
+        <entry key="..\:/android-work/CH05-Layout/0505_Auto_Complete_TextInput/src/main/res/mipmap-anydpi-v26/ic_launcher_0503.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0505_Auto_Complete_TextInput/src/main/res/mipmap-anydpi-v26/ic_launcher_0503_round.xml" value="0.3541666666666667" />
+        <entry key="..\:/android-work/CH05-Layout/0506_TextViewScrollable/src/main/res/layout/m0506.xml" value="0.33" />
+        <entry key="..\:/android-work/CH05-Layout/app/src/main/res/layout/activity_main.xml" value="0.29891304347826086" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
